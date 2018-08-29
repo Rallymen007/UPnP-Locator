@@ -1,0 +1,12 @@
+# UPnP Locator systemd unit
+[Unit]
+Description=UPnP Locator
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/mono /home/pi/UPnPLocator/UPnPOpenHABLocator.exe 
+
+[Install]
+WantedBy=multi-user.target
