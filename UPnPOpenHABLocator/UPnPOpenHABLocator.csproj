@@ -40,8 +40,9 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="UPnP">
-      <HintPath>..\..\UniversalWizard\_codeDependencies\Gateway\UPnP.dll</HintPath>
+    <Reference Include="UPnP, Version=1.0.6586.19367, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\UPnP.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

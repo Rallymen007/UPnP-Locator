@@ -1,0 +1,8 @@
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\bin\Release\UPnPOpenHABLocator.exe.config
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\bin\Release\UPnPOpenHABLocator.exe
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\bin\Release\UPnPOpenHABLocator.pdb
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\bin\Release\UPnP.dll
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Release\UPnPOpenHABLocator.csproj.CoreCompileInputs.cache
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Release\UPnPOpenHABLocator.csproj.CopyComplete
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Release\UPnPOpenHABLocator.exe
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Release\UPnPOpenHABLocator.pdb

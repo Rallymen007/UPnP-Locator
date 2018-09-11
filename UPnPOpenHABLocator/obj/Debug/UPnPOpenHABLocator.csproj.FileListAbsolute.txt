@@ -7,3 +7,12 @@ D:\Documents\I3S\_vsprojects\UPnPOpenHABLocator\UPnPOpenHABLocator\bin\Debug\UPn
 D:\Documents\I3S\_vsprojects\UPnPOpenHABLocator\UPnPOpenHABLocator\obj\Debug\UPnPOpenHABLocator.csproj.CopyComplete
 D:\Documents\I3S\_vsprojects\UPnPOpenHABLocator\UPnPOpenHABLocator\obj\Debug\UPnPOpenHABLocator.exe
 D:\Documents\I3S\_vsprojects\UPnPOpenHABLocator\UPnPOpenHABLocator\obj\Debug\UPnPOpenHABLocator.pdb
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\bin\Debug\UPnPOpenHABLocator.exe.config
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\bin\Debug\UPnPOpenHABLocator.exe
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\bin\Debug\UPnPOpenHABLocator.pdb
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\bin\Debug\UPnP.dll
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Debug\UPnPOpenHABLocator.csprojAssemblyReference.cache
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Debug\UPnPOpenHABLocator.csproj.CoreCompileInputs.cache
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Debug\UPnPOpenHABLocator.csproj.CopyComplete
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Debug\UPnPOpenHABLocator.exe
+D:\Documents\I3S\_vsprojects\UPnP-Locator\UPnPOpenHABLocator\obj\Debug\UPnPOpenHABLocator.pdb
