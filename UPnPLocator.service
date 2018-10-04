@@ -3,6 +3,7 @@
 Description=UPnP Locator
 After=network-online.target
 Wants=network-online.target
+BindsTo=network.service
 
 [Service]
 Type=simple
